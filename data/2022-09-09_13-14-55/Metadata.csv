@@ -1,0 +1,2 @@
+version,device name,recording time,platform,appVersion,device id,sensors,sampleRateMs
+3,iPhone 12 mini,2022-09-09_13-14-55,ios,1.10.4,4fb87800-4dac-4546-a0dd-a150d88be51c,Accelerometer|Gravity|Annotation|AccelerometerUncalibrated,10|10||10
