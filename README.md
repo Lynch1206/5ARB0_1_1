@@ -6,3 +6,6 @@ First attempt of the assignment
 - Unecessary data should be removed from `data`
 - Remove duplicate columns.
 - Have index column -- `second_elapsed`
+- Remove duplicate columns
+- Combine dataframes
+- Merge all csv in folders
