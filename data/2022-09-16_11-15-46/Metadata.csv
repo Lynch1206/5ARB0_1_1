@@ -1,2 +1,0 @@
-version,device name,recording time,platform,appVersion,device id,sensors,sampleRateMs
-3,iPhone 12 mini,2022-09-16_11-15-46,ios,1.10.4,62c9cbe1-be09-40e5-ae09-15a0526fa846,Accelerometer|Gravity|Gyroscope|Orientation|Microphone|Annotation|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|10|100||10|10
