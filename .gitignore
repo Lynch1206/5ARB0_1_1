@@ -12,3 +12,5 @@ variables/
 *.html
 .python-version
 data./
+helpers/__pycache__/__init__.cpython-38.pyc
+helpers/__pycache__/activitydetector.cpython-38.pyc
